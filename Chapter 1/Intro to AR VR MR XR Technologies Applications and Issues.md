@@ -20,7 +20,7 @@
 
    a. Reality-Virtuality Continuum
 
-   ![](D:\UROP\2100\学习\Course 1\截图\微信图片_20210102095942.jpg)
+   ![](XR-Course-Notes\Chapter 1\微信图片_20210102095942.jpg)
 
    b. Synonym for AR
 
