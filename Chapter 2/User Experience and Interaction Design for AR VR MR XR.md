@@ -78,11 +78,11 @@
 
    - Interaction Tracking
 
-   b. Paths of creating XR:<img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210107101114.png" style="zoom:50%;" />
+   b. Paths of creating XR:<img src=".\微信截图_20210107101114.png" />
 
    c. Tools of Developing XR:
 
-   <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210107101808.png" style="zoom:50%;" />
+   <img src=".\微信截图_20210107101808.png" />
 
    d. To get started:
 
@@ -93,7 +93,7 @@
 
 4. Interaction Design Process:
 
-   ![](D:\UROP\2100\学习\Course 2\截图\微信截图_20210107102409.png)
+   <img src=".\微信截图_20210107102409.png" />
 
    a. Processes: 
 
@@ -104,13 +104,13 @@
 
    b. Fidelity and Skills:
 
-   ![](D:\UROP\2100\学习\Course 2\截图\微信截图_20210107104314.png)
+   <img src=".\微信截图_20210107104314.png" />
 
 5. Intro to XR Design:
 
    a. Design Process:
 
-   <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210107103530.png" style="zoom: 50%;" />
+   <img src=".\微信截图_20210107103530.png" />
 
    b. Methods & Tools: Needfinding & Brainstorming, Lo-Fi & Hi-Fi Prototyping, Digital & Immersive Authoring, Development Analytics.
 
@@ -162,7 +162,7 @@
 
      - Descriptions:
 
-       ![](D:\UROP\2100\学习\Course 2\截图\微信截图_20210111095139.png)
+         <img src=".\微信截图_20210111095139.png" />
 
      - Do's and Don'ts of Personas:
 
@@ -391,13 +391,13 @@
 
    e. Idea Hexagon
 
-   <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210111202614.png" style="zoom:50%;" />
+   <img src=".\微信截图_20210111202614.png" />
 
    f. Object-Control Design Matrix:
 
    Example:
 
-   <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210111202853.png" style="zoom:50%;" />
+   <img src=".\微信截图_20210111202853.png" />
 
    g. Threshold & Ceiling in Tool Design:
 
@@ -422,7 +422,7 @@
 
 3. Storyboarding & Wireframing:
 
-   <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210111205710.png" style="zoom:50%;" />
+   <img src=".\微信截图_20210111205710.png" />
 
    - Traditional storyboards: organize 2D screens, limited for 3D scenes.
    - 360 storyboards: spatial content layout around the user, no depth.
@@ -430,7 +430,7 @@
 
 4. Physical Prototyping:
 
-   <img src="D:\UROP\2100\学习\Course 2\截图\微信图片_20210111215414.png" style="zoom:50%;" />
+   <img src=".\微信图片_20210111215414.png" />
 
    a. paper prototypes:
    
@@ -462,7 +462,7 @@
 
    1. Digital prototyping:
 
-      <img src="D:\UROP\2100\学习\Course 2\截图\Ws3vl8GDSouN75fBgwqL2Q_5d4275c7830b43b396c5c5f1ef75d082_digital.png" style="zoom:50%;" />
+      <img src=".\Ws3vl8GDSouN75fBgwqL2Q_5d4275c7830b43b396c5c5f1ef75d082_digital.png" />
 
       a. Digital Authoring Tools for VR: Amazon Sumerian, Unity Editor
 
@@ -531,7 +531,7 @@
 
       - Paper Prototype Testing:
 
-        <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210113100035.png" style="zoom:50%;" />
+        <img src=".\微信截图_20210113100035.png" />
 
         Facilitator guides the process (introduces tasks, help if user gets stuck)
 
@@ -549,7 +549,7 @@
 
       - Usability Inspection:
 
-        <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210113100755.png" style="zoom:50%;" />
+        <img src=".\微信截图_20210113100755.png" />
 
       - Usability Testing:
 
@@ -563,7 +563,7 @@
 
       e. Designing a User Study:
 
-      <img src="D:\UROP\2100\学习\Course 2\截图\微信截图_20210113101539.png" style="zoom:50%;" />
+      <img src=".\微信截图_20210113101539.png" />
 
       - Choose a scenario: Describe verbally to tester as part of test script, Illustrate through a combination of physical and virtual objects.
       - Decide on set of tasks: Think of the usability test in terms of clearly defined testing units, Consider stopping criteria correct path, possible issues.
