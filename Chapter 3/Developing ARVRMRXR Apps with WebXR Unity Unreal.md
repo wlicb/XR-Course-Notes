@@ -17,9 +17,9 @@
 
    - WebXR:
 
-     <img src="D:\UROP\2100\学习\Course 3\截图\微信图片_20210115104459.png" style="zoom: 33%;" />
+     <img src=".\微信图片_20210115104459.png" />
 
-     ​	<img src="D:\UROP\2100\学习\Course 3\截图\微信图片_20210115104507.png" style="zoom: 33%;" />
+     ​	<img src=".\微信图片_20210115104507.png" />
 
    - WebXR vs Unity vs Unreal:
      - Unity: 
@@ -202,7 +202,7 @@
        - Example code: https://codepen.io/mnebeling/pen/JxboWj
        - Camera Rig: moves when teleporting. (not just moving the camera itself while teleporting)
 
-       <img src="D:\UROP\2100\学习\Course 3\截图\微信图片_20210116163315.jpg" style="zoom:33%;" />
+       <img src=".\微信图片_20210116163315.jpg" />
 
      - Walking (6 DOF)
 
@@ -543,7 +543,7 @@
 
    - Near and Far Manipulation:
 
-     <img src="D:\UROP\2100\学习\Course 3\截图\微信图片_20210117110544.png" style="zoom: 33%;" />
+     <img src=".\微信图片_20210117110544.png" />
 
    - Head-worn AR Applications: Very High-end Devices, Direct Manipulation, Multimodal Interaction.
 
