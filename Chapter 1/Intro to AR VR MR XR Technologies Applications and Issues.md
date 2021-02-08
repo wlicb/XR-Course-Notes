@@ -20,7 +20,7 @@
 
    a. Reality-Virtuality Continuum
 
-   <img src=".\Intro to VR _ Coursera - Google Chrome 2021_1_2 12_05_59.png" style="zoom:50%;" />
+   <img src=".\Intro to VR _ Coursera - Google Chrome 2021_1_2 12_05_59.png"/>
 
    b. Synonym for AR
 
@@ -106,7 +106,7 @@
 
      (2) Plausibility Illusion: "Is this happening?"
 
-     ![](D:\UROP\2100\学习\Course 1\截图\微信截图_20210102162743.png)
+     <img src=".\微信截图_20210102162743.png" />
 
    - Embodiment & Avatars: How the user is represented in the VR world.
 
@@ -132,7 +132,7 @@
    
      (2) 6 DOF: The user can move along axes as well as rotating the head.
    
-     <img src="D:\UROP\2100\学习\Course 1\截图\微信截图_20210102194604.png" style="zoom:50%;" />
+     <img src=".\微信截图_20210102194604.png" />
    
    - Outside-In and Inside-Out Tracking:
    
@@ -162,7 +162,7 @@
    - Hand-held
    - Monitor-based: look at the screen and the scene is rendered according to the position of user, similar to a mirror.
 
-   <img src="D:\UROP\2100\学习\Course 1\截图\微信截图_20210102202124.png" style="zoom:50%;" />
+   <img src=.\微信截图_20210102202124.png" />
 
    c. AR concepts:
 
@@ -178,7 +178,7 @@
 
      (2) Weak AR: no or imprecise tracking, no knowledge of the environment, no or mostly implicit interaction, hand-held AR display.
 
-     <img src="D:\UROP\2100\学习\Course 1\截图\微信截图_20210102203717.png" style="zoom:50%;" />
+     <img src=".\微信截图_20210102203717.png" />
 
    - Marker-based AR & Marker-less AR:
 
@@ -260,7 +260,7 @@
 
    b. XR Technology tree:
 
-   <img src="D:\UROP\2100\学习\Course 1\截图\G-ZPELxpS3imTxC8aRt4Qg_4427051af81145c89f26f14e3bbe08f0_techtree-med.png" style="zoom:50%;" />
+   <img src=".\G-ZPELxpS3imTxC8aRt4Qg_4427051af81145c89f26f14e3bbe08f0_techtree-med.png" />
 
 
 
@@ -270,7 +270,7 @@
 
    a. A technical HCI perspective: including people and their tasks as well as the technologies.
 
-   <img src="D:\UROP\2100\学习\Course 1\截图\微信截图_20210103102036.png" style="zoom:50%;" />
+   <img src=".\微信截图_20210103102036.png" />
 
    b. Trends in different perspectives:
 
@@ -325,7 +325,7 @@
 
    b. Technology issues:
 
-   <img src="D:\UROP\2100\学习\Course 1\截图\微信截图_20210103112440.png" style="zoom:50%;" />
+   <img src=".\微信截图_20210103112440.png" />
 
    
 
