@@ -20,7 +20,7 @@
 
    a. Reality-Virtuality Continuum
 
-   ![](.\微信图片_20210102095942.jpg)
+   <img src=".\Intro to VR _ Coursera - Google Chrome 2021_1_2 12_05_59.png" style="zoom:50%;" />
 
    b. Synonym for AR
 
@@ -88,7 +88,7 @@
 
    - Room-sized (CAVE)
 
-     <img src="D:\UROP\2100\学习\Course 1\截图\Intro to VR _ Coursera - Google Chrome 2021_1_2 12_05_59.png" style="zoom:50%;" />
+     <img src=".\Intro to VR _ Coursera - Google Chrome 2021_1_2 12_05_59.png"/>
 
    c. Key concepts in VR:
 
