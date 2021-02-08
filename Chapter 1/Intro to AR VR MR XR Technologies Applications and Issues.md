@@ -20,7 +20,7 @@
 
    a. Reality-Virtuality Continuum
 
-   <img src=".\Intro to VR _ Coursera - Google Chrome 2021_1_2 12_05_59.png"/>
+   <img src=".\微信图片_20210102095942.jpg"/>
 
    b. Synonym for AR
 
